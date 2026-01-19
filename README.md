@@ -6,12 +6,7 @@ This project introducing a real separation between frontend (UI) and backend (lo
 
 ## 🧪 How It Looks
 
-
----
-
-## 🏗️ Architecture
-
-![architecture](/assets/rag-bot-fastapi-architecture.png)
+![views](/assets/RAG_Chatbot.png)
 
 ---
 
@@ -157,7 +152,6 @@ rag-bot-v3/
 | 💬 Chat | Renders chat bubbles, input box, and chat history download |
 | 🔬 Inspector | Renders inspector to test vectorstore responses |
 
-![views](/assets/RAG_Chatbot.png)
 
 </details>
 
@@ -185,3 +179,9 @@ Chat history is saved in the session state and can be exported as a CSV with the
 |----------|--------|----------------|------------|---------------------|-----------|
 | What is this PDF about? | This PDF explains... | Groq | llama3-70b-8192 | file1.pdf, file2.pdf | 2025-07-03 21:00:00 |
 
+
+## 🏗️ Architecture
+
+![architecture](/assets/rag-bot-fastapi-architecture.png)
+
+---
