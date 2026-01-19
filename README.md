@@ -6,8 +6,6 @@ This project introducing a real separation between frontend (UI) and backend (lo
 
 ## 🧪 How It Looks
 
-### Demo
-![demo-gif](/assets/rag-bot-fastapi.gif)
 
 ---
 
