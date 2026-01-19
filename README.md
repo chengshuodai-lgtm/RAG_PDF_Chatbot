@@ -157,7 +157,7 @@ rag-bot-v3/
 | 💬 Chat | Renders chat bubbles, input box, and chat history download |
 | 🔬 Inspector | Renders inspector to test vectorstore responses |
 
-![views](/assets/rag-bot-fastapi-clean-ui-ux.gif)
+![views](/assets/RAG_Chatbot.png)
 
 </details>
 
